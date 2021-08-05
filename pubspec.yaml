@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_baidu_mapapi_base:
-    git: https://github.com/lizubing1992/flutter_baidu_mapapi_base.git
+    git: https://gitee.com/masterksy/flutter_baidu_mapapi_base.git
     #path: ../flutter_baidu_mapapi_base/
 
 dev_dependencies:
